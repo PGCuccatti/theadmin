@@ -1,0 +1,755 @@
+{
+    "data": [
+      {
+        "id": 1139,
+        "newsDay": "2020-05-24",
+        "topic": "asdf111",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1140,
+            "tilt": "D",
+            "text": null,
+            "url": "https://www.breitbart.com/politics/2020/05/23/mike-pence-phase-four-coronavirus-bill-should-have-legal-shield-trial-lawyers-payroll-tax-cut-economic-boosters/",
+            "imageUrl": "https://media.breitbart.com/media/2015/03/mike-pence-AP-640x480.jpg",
+            "source": "breitbart.com",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1141,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200522141452-01-trump-wh-briefing-0522-small-169.jpg",
+            "source": null,
+            "author": "ASDF111",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 1136,
+        "newsDay": "2020-05-24",
+        "topic": "ffeeff",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1137,
+            "tilt": "D",
+            "text": null,
+            "url": "https://www.breitbart.com/politics/2020/05/23/mike-pence-phase-four-coronavirus-bill-should-have-legal-shield-trial-lawyers-payroll-tax-cut-economic-boosters/",
+            "imageUrl": "https://media.breitbart.com/media/2015/03/mike-pence-AP-640x480.jpg",
+            "source": "breitbart.com",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1138,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200514134432-japan-video-coronavirus-spread-coren-pkg-intl-ldn-vpx-00010009-small-169.jpg",
+            "source": null,
+            "author": "FFEEFF",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 1133,
+        "newsDay": "2020-05-24",
+        "topic": "ggggghhhhf333",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1134,
+            "tilt": "D",
+            "text": "",
+            "url": "https://www.breitbart.com/politics/2020/05/23/mike-pence-phase-four-coronavirus-bill-should-have-legal-shield-trial-lawyers-payroll-tax-cut-economic-boosters/",
+            "imageUrl": "https://media.breitbart.com/media/2015/03/mike-pence-AP-640x480.jpg",
+            "source": "GGGGGHHHH",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1135,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200514134432-japan-video-coronavirus-spread-coren-pkg-intl-ldn-vpx-00010009-small-169.jpg",
+            "source": null,
+            "author": "GGGGGHHHH",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 1127,
+        "newsDay": "2020-05-24",
+        "topic": "ggggghhhhf3",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1128,
+            "tilt": "D",
+            "text": "",
+            "url": "https://www.breitbart.com/politics/2020/05/23/mike-pence-phase-four-coronavirus-bill-should-have-legal-shield-trial-lawyers-payroll-tax-cut-economic-boosters/",
+            "imageUrl": "https://media.breitbart.com/media/2015/03/mike-pence-AP-640x480.jpg",
+            "source": "GGGGGHHHH",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1129,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200514134432-japan-video-coronavirus-spread-coren-pkg-intl-ldn-vpx-00010009-small-169.jpg",
+            "source": null,
+            "author": "GGGGGHHHH",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 1124,
+        "newsDay": "2020-05-24",
+        "topic": "ggggghhhhf",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1125,
+            "tilt": "D",
+            "text": "",
+            "url": "https://www.breitbart.com/politics/2020/05/23/mike-pence-phase-four-coronavirus-bill-should-have-legal-shield-trial-lawyers-payroll-tax-cut-economic-boosters/",
+            "imageUrl": "https://media.breitbart.com/media/2015/03/mike-pence-AP-640x480.jpg",
+            "source": "GGGGGHHHH",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1126,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200514134432-japan-video-coronavirus-spread-coren-pkg-intl-ldn-vpx-00010009-small-169.jpg",
+            "source": null,
+            "author": "GGGGGHHHH",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 1118,
+        "newsDay": "2020-05-24",
+        "topic": "ggggghhhh",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1119,
+            "tilt": "D",
+            "text": "",
+            "url": "https://www.breitbart.com/politics/2020/05/23/mike-pence-phase-four-coronavirus-bill-should-have-legal-shield-trial-lawyers-payroll-tax-cut-economic-boosters/",
+            "imageUrl": "https://media.breitbart.com/media/2015/03/mike-pence-AP-640x480.jpg",
+            "source": "GGGGGHHHH",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1120,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200514134432-japan-video-coronavirus-spread-coren-pkg-intl-ldn-vpx-00010009-small-169.jpg",
+            "source": null,
+            "author": "GGGGGHHHH",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 1115,
+        "newsDay": "2020-05-24",
+        "topic": "Kyle123",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1116,
+            "tilt": "D",
+            "text": null,
+            "url": "https://www.breitbart.com/politics/2020/05/23/mike-pence-phase-four-coronavirus-bill-should-have-legal-shield-trial-lawyers-payroll-tax-cut-economic-boosters/",
+            "imageUrl": "https://media.breitbart.com/media/2015/03/mike-pence-AP-420x315.jpg",
+            "source": "breitbart.com",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1117,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200520012713-hydroxychloroquine-tablets-file-small-169.jpg",
+            "source": null,
+            "author": "nd hairstylist ",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 1112,
+        "newsDay": "2020-05-24",
+        "topic": "Philip123",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1113,
+            "tilt": "D",
+            "text": null,
+            "url": "https://www.breitbart.com/politics/2020/05/23/mike-pence-phase-four-coronavirus-bill-should-have-legal-shield-trial-lawyers-payroll-tax-cut-economic-boosters/",
+            "imageUrl": "https://media.breitbart.com/media/2015/03/mike-pence-AP-640x480.jpg",
+            "source": "ASDFSDA",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1114,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200514134432-japan-video-coronavirus-spread-coren-pkg-intl-ldn-vpx-00010009-small-169.jpg",
+            "source": null,
+            "author": "ASDFSDA",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 1109,
+        "newsDay": "2020-05-24",
+        "topic": "asdfsadf",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1110,
+            "tilt": "D",
+            "text": null,
+            "url": "https://www.breitbart.com/politics/2020/05/23/mike-pence-phase-four-coronavirus-bill-should-have-legal-shield-trial-lawyers-payroll-tax-cut-economic-boosters/",
+            "imageUrl": "https://media.breitbart.com/media/2015/03/mike-pence-AP-640x480.jpg",
+            "source": "breitbart.com",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1111,
+            "tilt": "R",
+            "text": "",
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200514134432-japan-video-coronavirus-spread-coren-pkg-intl-ldn-vpx-00010009-small-169.jpg",
+            "source": null,
+            "author": "ASDFSADF",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 1106,
+        "newsDay": "2020-05-24",
+        "topic": "asdfsdaf",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1107,
+            "tilt": "D",
+            "text": null,
+            "url": "https://www.breitbart.com/politics/2020/05/23/mike-pence-phase-four-coronavirus-bill-should-have-legal-shield-trial-lawyers-payroll-tax-cut-economic-boosters/",
+            "imageUrl": "https://media.breitbart.com/media/2015/03/mike-pence-AP-640x480.jpg",
+            "source": "breitbart.com",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1108,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200514134432-japan-video-coronavirus-spread-coren-pkg-intl-ldn-vpx-00010009-small-169.jpg",
+            "source": null,
+            "author": "ASDFSDAF",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 1103,
+        "newsDay": "2020-05-23",
+        "topic": "easyas123",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1104,
+            "tilt": "D",
+            "text": null,
+            "url": "https://www.breitbart.com/clips/2020/05/23/fauci-most-of-the-country-reopening-in-a-prudent-way-prolonged-lockdowns-arent-the-way-to-go/",
+            "imageUrl": "https://media.breitbart.com/media/2020/05/roddie-bryan-200x150.jpg",
+            "source": "breitbart.com",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1105,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200416013606-donald-trump-april-15-2020-01-medium-tease.jpg",
+            "source": null,
+            "author": "ASDFDSAF",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 1100,
+        "newsDay": "2020-05-23",
+        "topic": "asdfsdf",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1101,
+            "tilt": "D",
+            "text": null,
+            "url": "https://www.breitbart.com/clips/2020/05/23/fauci-most-of-the-country-reopening-in-a-prudent-way-prolonged-lockdowns-arent-the-way-to-go/",
+            "imageUrl": "https://media.breitbart.com/media/2020/03/800-200x150.jpg",
+            "source": "ASDFSDF",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1102,
+            "tilt": "R",
+            "text": null,
+            "url": "https://www.nn.com/2020/05/22/investing/moderna-coronavirus-vaccine-stock-sales/index.html",
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200523024317-great-clips-springfield-missouri-large-tease.jpg",
+            "source": null,
+            "author": "ASDFSDF",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 1097,
+        "newsDay": "2020-05-23",
+        "topic": "asdfsadfEEE",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1098,
+            "tilt": "D",
+            "text": null,
+            "url": "https://www.breitbart.com/clips/2020/05/23/fauci-most-of-the-country-reopening-in-a-prudent-way-prolonged-lockdowns-arent-the-way-to-go/",
+            "imageUrl": "https://media.breitbart.com/media/2020/03/800-200x150.jpg",
+            "source": "breitbart.com",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1099,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/180928160540-sheryl-sandberg-qa-main-image-2-small-169.jpg",
+            "source": null,
+            "author": "ASDFSADF",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 1085,
+        "newsDay": "2020-05-23",
+        "topic": "asdfdsaf",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1086,
+            "tilt": "D",
+            "text": null,
+            "url": "ASDFDSAF",
+            "imageUrl": "ASDFDSAF",
+            "source": "breitbart.com",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1087,
+            "tilt": "R",
+            "text": "",
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200515183541-facebook-2020-graduate-ceremony-online-small-169.jpg",
+            "source": null,
+            "author": "ASDFDSAF",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 1082,
+        "newsDay": "2020-05-22",
+        "topic": "asdfdsafsadfas",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1083,
+            "tilt": "D",
+            "text": null,
+            "url": "",
+            "imageUrl": "",
+            "source": "ASDFDSAFSADFAS",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1084,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200522114609-moderna-cambridge-0518-small-169.jpg",
+            "source": null,
+            "author": "ASDFDSAFSADFAS",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 1040,
+        "newsDay": "2020-05-22",
+        "topic": "sdfasdfsdf",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 1041,
+            "tilt": "D",
+            "text": "https://www.breitbart.com/politics/2020/05/22/exclusive-i-was-taken-aback-mike-pence-excoriates-bidens-offensive-and-racist-comments-as-sign-of-desperation/",
+            "url": "https://www.breitbart.com/politics/2020/05/22/exclusive-i-was-taken-aback-mike-pence-excoriates-bidens-offensive-and-racist-comments-as-sign-of-desperation/",
+            "imageUrl": "https://media.breitbart.com/media/2020/04/AP_20104854998031-640x480.jpg",
+            "source": "breitbart.com",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1042,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200522114609-moderna-cambridge-0518-small-169.jpg",
+            "source": null,
+            "author": null,
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 998,
+        "newsDay": "2020-05-22",
+        "topic": "sdfdsfds",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 999,
+            "tilt": "D",
+            "text": null,
+            "url": "https://cdn.cnn.com/cnnnext/dam/assets/200521115309-astrazeneca-ceo-pascal-soriot-small-169.jpg",
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200521115309-astrazeneca-ceo-pascal-soriot-small-169.jpg",
+            "source": "https://cdn.cnn.com/cnnnext/dam/assets/200521115309-astrazen",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 1000,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200521115309-astrazeneca-ceo-pascal-soriot-small-169.jpg",
+            "source": null,
+            "author": "https://cdn.cnn.com/cnnnext/dam/assets/200521115309-astrazen",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 974,
+        "newsDay": "2020-05-22",
+        "topic": "asdfds",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 975,
+            "tilt": "D",
+            "text": null,
+            "url": "ASDFDS",
+            "imageUrl": "ASDFDS",
+            "source": "ASDFDS",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 976,
+            "tilt": "R",
+            "text": null,
+            "url": "https://www.cnn.com/2020/05/22/investing/moderna-coronavirus-vaccine-stock-sales/index.html",
+            "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/200426142714-05-maatje-benassi-0422-small-169.jpg",
+            "source": "theatlantic.com",
+            "author": "https://cdn.cnn.com/cnnnext/dam/assets/200426142714-05-maatj",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 971,
+        "newsDay": "2020-05-22",
+        "topic": "SDFASDF",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 972,
+            "tilt": "D",
+            "text": null,
+            "url": "SDFASDF",
+            "imageUrl": "SDFASDF",
+            "source": "SDFASDF",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 973,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "SDFASDF",
+            "source": null,
+            "author": "SDFASDF",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 968,
+        "newsDay": "2020-05-22",
+        "topic": "dsaf",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 969,
+            "tilt": "D",
+            "text": null,
+            "url": "DSAF",
+            "imageUrl": "DSAF",
+            "source": "DSAF",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 970,
+            "tilt": "R",
+            "text": "DSAF",
+            "url": "",
+            "imageUrl": "DSAFDSAF",
+            "source": "theatlantic.com",
+            "author": "DSAF",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 953,
+        "newsDay": "2020-05-22",
+        "topic": "ASDFASDF",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 954,
+            "tilt": "D",
+            "text": null,
+            "url": "ASDF",
+            "imageUrl": "ASDF",
+            "source": "ASDF",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 955,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "ASDF",
+            "source": null,
+            "author": "ASDF",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 950,
+        "newsDay": "2020-05-22",
+        "topic": "",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 951,
+            "tilt": "D",
+            "text": "",
+            "url": "",
+            "imageUrl": "",
+            "source": "",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 952,
+            "tilt": "R",
+            "text": "",
+            "url": "",
+            "imageUrl": "",
+            "source": "",
+            "author": null,
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 944,
+        "newsDay": "2020-05-22",
+        "topic": "asdf",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 945,
+            "tilt": "D",
+            "text": null,
+            "url": "ASDF",
+            "imageUrl": "ASDF",
+            "source": "ASDF",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 946,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "ASDF",
+            "source": null,
+            "author": "ASDF",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 941,
+        "newsDay": "2020-05-22",
+        "topic": "sadfsdaf",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 942,
+            "tilt": "D",
+            "text": "",
+            "url": "",
+            "imageUrl": "",
+            "source": "",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 943,
+            "tilt": "R",
+            "text": null,
+            "url": "",
+            "imageUrl": "SADFSDAF",
+            "source": null,
+            "author": "SADFSDAF",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 935,
+        "newsDay": "2020-05-22",
+        "topic": "sdfs",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 936,
+            "tilt": "D",
+            "text": null,
+            "url": "SDFS",
+            "imageUrl": "SDFS",
+            "source": "SDFS",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 937,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "SDFS",
+            "source": null,
+            "author": "SDFS",
+            "topic": null
+          }
+        ]
+      },
+      {
+        "id": 929,
+        "newsDay": "2020-05-22",
+        "topic": "https://www.breitbart.com/sports/2020/05/19/watch-",
+        "active": "Y",
+        "articles": [
+          {
+            "id": 930,
+            "tilt": "D",
+            "text": null,
+            "url": "https://www.breitbart.com/sports/2020/05/19/watch-megan-rapinoe-we-have-a-white-nationalist-i-think-in-the-white-house/",
+            "imageUrl": "https://www.breitbart.com/sports/2020/05/19/watch-megan-rapinoe-we-have-a-white-nationalist-i-think-in-the-white-house/",
+            "source": "dailycaller.com",
+            "author": null,
+            "topic": null
+          },
+          {
+            "id": 931,
+            "tilt": "R",
+            "text": null,
+            "url": null,
+            "imageUrl": "https://www.breitbart.com/sports/2020/05/19/watch-megan-rapinoe-we-have-a-white-nationalist-i-think-in-the-white-house/",
+            "source": null,
+            "author": "https://www.breitbart.com/sports/2020/05/19/watch-megan-rapi",
+            "topic": null
+          }
+        ]
+      }
+    ],
+    "status": 200,
+    "statusText": "",
+    "headers": {
+      "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+      "content-type": "application/json;charset=UTF-8",
+      "expires": "0",
+      "pragma": "no-cache"
+    },
+    "config": {
+      "transformRequest": {},
+      "transformResponse": {},
+      "timeout": 0,
+      "xsrfCookieName": "XSRF-TOKEN",
+      "xsrfHeaderName": "X-XSRF-TOKEN",
+      "maxContentLength": -1,
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJmdWxsTmFtZSI6IlRyYWNleSBDdWNjYXR0aSIsImlkIjoiMSIsImV4cCI6MTU5MDMzNTEwMiwiaWF0IjoxNTkwMzM0ODAyLCJ1c2VybmFtZSI6ImtpdG5rYXlqQHlhaG9vLmNvbSJ9.lemBh9XFcMl7m14jEUtqSgKe7HN0JRTwbgdlaoAIR7jtUmcmQG5vIGx6yrnBRSMoE2_hPrnyQ9utyEHBV4-4-Q"
+      },
+      "method": "get",
+      "url": "http://localhost:8080/api/topics"
+    },
+    "request": {}
+  }
